@@ -29,16 +29,16 @@ Saya seorang mahasiswa Teknik Informatika yang tertarik pada pengembangan websit
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects 2026
 
 ### 🌴 TunjukRiau
 Aplikasi eksplorasi wisata Riau dengan fitur rekomendasi wisata, kuliner, penginapan, dan chatbot AI.
 
-### 📱 React Native Login UI
-Aplikasi mobile sederhana menggunakan React Native dan Expo dengan konsep reusable component, props, dan custom styling.
+### 🥗 NutriScanAI
+**NutriScanAI** adalah asisten pintar berbasis Web App yang dirancang untuk menganalisis label komposisi dan nilai gizi makanan secara *real-time* melalui pemindaian foto. Menggunakan teknologi Multimodal AI tingkat lanjut, aplikasi ini mencocokkan kandungan produk secara instan dengan profil kesehatan, alergi, dan batasan diet syariat pengguna.
 
-### 📚 LibraryStore
-Sistem informasi perpustakaan berbasis Vue.js, Tailwind CSS, Pinia, JSON Server, dan desain modern.
+### 🌴 RiauScope
+Modern tourism exploration platform for discovering destinations, culinary spots, hotels, and local attractions in Riau Province.
 
 ### ⚔️ Cinematic Katana Website
 Website interaktif menggunakan Vue.js, GSAP, Three.js, dan animasi modern.

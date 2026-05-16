@@ -63,10 +63,10 @@ Website interaktif menggunakan Vue.js, GSAP, Three.js, dan animasi modern.
   <a href="https://github.com/olivertokio">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/public-profile/settings/?trk=d_flagship3_profile_self_view_public_profile&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BzVUersioSoGtv%2BxGM1DoCg%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://www.instagram.com/shannn.exee?igsh=MWpzaGxyMmVmbW1xdQ%3D%3D&utm_source=qr">
     <img src="https://img.shields.io/badge/Instagram-e11d48?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
